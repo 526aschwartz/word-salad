@@ -1,0 +1,36 @@
+body {
+    background-color: #ba1818;
+}
+
+h1 {
+    font-family: "curve", serif;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+    color: white;
+}
+
+p {
+    text-align: center;
+    font-family: "anca", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.story {
+    background-color: #ff5757;
+    border: solid 3px #00ba19;
+    border-radius: 4px;
+    margin: 50px;
+    padding: 5px;
+}
+
+img {
+    margin: 10px;
+    width: 223px;
+    height: 280px;
+    text-align: center;
+}
