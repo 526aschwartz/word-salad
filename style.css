@@ -28,9 +28,11 @@ p {
     padding: 5px;
 }
 
-img {
+.center {
     margin: 10px;
     width: 223px;
     height: 280px;
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
